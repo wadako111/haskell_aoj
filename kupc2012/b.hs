@@ -1,0 +1,12 @@
+--      oxxoxoo
+--     xxxxoxoo                      oxxoxxxx
+--    ooooooxoo                      oxxoooooo
+--   xxxxxxxxoo    ooooooxxxx       xxxxoooooo   oxxxxxxxxx
+--  ooooooooooo    ooooooooooo     ooooooooooo   ooooooooooo
+--
+--
+--    oxo
+--   xxxo  oxxx
+--  ooooo  ooooo
+--  
+--  
